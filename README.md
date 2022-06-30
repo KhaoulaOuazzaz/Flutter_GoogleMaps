@@ -1,16 +1,5 @@
-# google_mao
+# google_map
 
-A new Flutter project.
+On this app my focus was on learning how to use APIs with FLUTTER, in particular Google Maps. Learned abour, positions, markers, getting your current Location, getting directions ...
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](https://github.com/KhaoulaOuazzaz/Flutter_GoogleMaps/blob/main/GM-demo.jpg)
